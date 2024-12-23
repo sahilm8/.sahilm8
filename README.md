@@ -22,9 +22,18 @@ Skilled in designing and implementing **secure**, **scalable**, and **reliable f
 
 ## Notable Projects 🚀
 
-- [**Microservice Template**](https://github.com/sahilm8/microservice_template)
+### ATS
+
+Currently developing an algorithmic trading system.
+
+<img src="./ats.png" alt="ATS" width="600" height="500" />
+
+- [**Crypto Info Service**](https://github.com/sahilm8/crypto_info_svc)
 - [**Stock Info Service**](https://github.com/sahilm8/stock_info_svc)
 - [**Stock Portfolio Service**](https://github.com/sahilm8/stock_portfolio_svc)
+
+### Misc
+- [**Microservice Template**](https://github.com/sahilm8/microservice_template)
 
 ## Links 📫
 
