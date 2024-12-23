@@ -26,7 +26,7 @@ Skilled in designing and implementing **secure**, **scalable**, and **reliable f
 
 Currently developing an algorithmic trading system.
 
-<img src="./ats.png" alt="ATS" width="900" height="800" />
+<img src="./ats.png" alt="ATS" width="800" height="700" />
 
 - [**Crypto Info Service**](https://github.com/sahilm8/crypto_info_svc)
 - [**Stock Info Service**](https://github.com/sahilm8/stock_info_svc)
